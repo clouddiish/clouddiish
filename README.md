@@ -4,11 +4,11 @@ i'm a **python developer intern** and a **computer science student** based in **
 
 ### skills and technologies
 
-- **programming languages**: Python, JavaScript
+- **programming languages**: Python, JavaScript, Java
 - **frameworks and libraries**: FastAPI, SQLModel, React
 - **databases**: MySQL, PostgreSQL, SQLite, MongoDB
 - **version control**: Git, GitHub
-- **other**: Docker
+- **other**: Docker, Alembic
 
 ### projects and experiences
 
