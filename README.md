@@ -1,6 +1,4 @@
-# hello world, it's olga here
-
-i'm a **python developer intern** and a **computer science student** based in **Warsaw, Poland**
+i'm a **python developer** and a **computer science student** based in **Warsaw, Poland**
 
 ### skills and technologies
 
