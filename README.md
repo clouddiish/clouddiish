@@ -3,7 +3,7 @@ i'm a **python developer** and a **computer science student** based in **Warsaw,
 ### skills and technologies
 
 - **programming languages**: Python, JavaScript, Java
-- **frameworks and libraries**: FastAPI, SQLModel, React
+- **frameworks and libraries**: FastAPI, SQLModel, Pydantic, SQLAlchemy, React
 - **databases**: MySQL, PostgreSQL, SQLite, MongoDB
 - **version control**: Git, GitHub
 - **other**: Docker, Alembic
@@ -17,7 +17,8 @@ i'm a **python developer** and a **computer science student** based in **Warsaw,
 ### what i'm learning
 
 - advanced Python techniques
-- cloud platforms (Azure)
+- cloud technologies
+- machine learning and AI
 
 ### contact
 
