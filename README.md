@@ -6,7 +6,7 @@ i'm a **python developer** and a **computer science student** based in **Warsaw,
 - **frameworks and libraries**: FastAPI, SQLModel, Pydantic, SQLAlchemy, React
 - **databases**: MySQL, PostgreSQL, SQLite, MongoDB
 - **version control**: Git, GitHub
-- **other**: Docker, Alembic
+- **other**: Docker, Docker Compose, Alembic, HTML, CSS
 
 ### projects and experiences
 
