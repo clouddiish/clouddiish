@@ -1,4 +1,4 @@
-i'm a **python developer** and a **computer science student** based in **Warsaw, Poland**
+hi!
 
 ### skills and technologies
 
