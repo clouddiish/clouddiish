@@ -24,7 +24,7 @@ hi! i am an IT engineer currently focused on business analysis and data engineer
 - kickstared a monorepo architecture with `uv` as Python package and project manager and `Nx` as the monorepo orchestrator
 - collaborated in an international and interdisciplinar IT team using Agile principles
 
-### university projects
+### university education
 
 - **final project**: built a full-stack dockerized personal finance management application with frontend in React and backend in FastAPI, hosted on Azure Cloud
 - **key topics and courses**: algorithms, databases, operating systems, backend and frontend development, cloud computing, software engineering, big data, machine and deep learning, AI basics, business intelligence
