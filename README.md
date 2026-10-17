@@ -1,6 +1,6 @@
 # about me
 
-hi! i am an IT engineer focused on data engineering with over 3 years of experience in a variety of international business environments
+hi! i am an IT engineer currently focused on business analysis and data engineering with over 3 years of experience in a variety of international and national professional environments
 
 ## primary skills and technologies
 
@@ -52,7 +52,7 @@ hi! i am an IT engineer focused on data engineering with over 3 years of experie
 
 ## contact
 
-feel free to reach out or connect with me:
+feel free to reach out or connect with me using any of the channels below. i am fluent in polish and english, and intermediate in german, so any of those languages would work with me:
 
 - [LinkedIn](https://www.linkedin.com/in/olga-szymczak/)  
 - [email](mailto:olga.szymczaak@gmail.com)
