@@ -1,6 +1,6 @@
 # about me
 
-hi! i am an IT engineer focused on data engineering with over 3 years of experience in international business environments
+hi! i am an IT engineer focused on data engineering with over 3 years of experience in a variety of international business environments
 
 ## primary skills and technologies
 
@@ -26,17 +26,22 @@ hi! i am an IT engineer focused on data engineering with over 3 years of experie
 
 ### university projects
 
-- final project: built a full-stack dockerized personal finance management application with frontend in React and backend in FastAPI, hosted on Azure Cloud
-- key topics and courses: algorithms, databases, operating systems, backend and frontend development, cloud computing, software engineering, big data, machine and deep learning, AI basics, business intelligence
+- **final project**: built a full-stack dockerized personal finance management application with frontend in React and backend in FastAPI, hosted on Azure Cloud
+- **key topics and courses**: algorithms, databases, operating systems, backend and frontend development, cloud computing, software engineering, big data, machine and deep learning, AI basics, business intelligence
 
 ### UX/UI course
 
-- final project: UX/UI redesign project of an existing solution
-- key topics and courses: collecting business requirements, understanding the user, IT requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI
+- **final project**: UX/UI redesign project of an existing solution
+- **key topics and courses**: collecting business requirements, understanding the user, IT requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI
+
+### volunteer website administrator
+
+- mintained and developed a NGO's WordPress site
+- coordinated with volunteer designers to enhance user experience and site performance
 
 ### personal projects
 
-- experimented with: MongoDB, web scrapping, data processing and more
+- experimented with: MongoDB, web scrapping, data processing, self-hosting on Raspberry PI and more
 
 ## what i'm currently learning
 
