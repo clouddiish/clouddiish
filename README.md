@@ -32,7 +32,7 @@ hi! i am an IT engineer currently focused on business analysis and data engineer
 ### UX/UI course
 
 - **final project**: UX/UI redesign project of an existing solution
-- **key topics and courses**: collecting business requirements, understanding the user, IT requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI
+- **key topics and courses**: collecting business requirements, understanding the user, IT requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI, Scrum methodology
 
 ### volunteer website administrator
 
