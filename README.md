@@ -26,17 +26,17 @@ hi! i am an IT engineer currently focused on business analysis and data engineer
 
 ### university education
 
+- **key topics and courses**: algorithms, databases, operating systems, backend and frontend development, cloud computing, software engineering, AI fundamentals, machine learning, deep learning, big data, business intelligence
 - **final project**: built a full-stack dockerized personal finance management application with frontend in React and backend in FastAPI, hosted on Azure Cloud
-- **key topics and courses**: algorithms, databases, operating systems, backend and frontend development, cloud computing, software engineering, big data, machine and deep learning, AI basics, business intelligence
 
 ### UX/UI course
 
-- **final project**: UX/UI redesign project of an existing solution
-- **key topics and courses**: collecting business requirements, understanding the user, IT requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI, Scrum methodology
+- **key topics and courses**: collecting business, IT and user requirements, requirements analysis, creating information architecture, concept mockup , concept validation, translating UX to UI, Scrum methodology
+- **final project**: UX/UI redesign project of an existing solution through a remote team collaboration
 
 ### volunteer website administrator
 
-- mintained and developed a NGO's WordPress site
+- maintained and developed an NGO's WordPress site
 - coordinated with volunteer designers to enhance user experience and site performance
 
 ### personal projects
