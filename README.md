@@ -26,4 +26,4 @@ hi! i am a general tech enthusiast with an IT engineering background, currently 
 feel free to reach out or connect with me using any of the channels below. i am fluent in polish and english, and intermediate in german, so any of those languages would work with me:
 
 - [LinkedIn](https://www.linkedin.com/in/olga-szymczak/)  
-- [email](mailto:olga.szymczaak@gmail.com)
+- [email](mailto:olga.szymczaak+github@gmail.com)
